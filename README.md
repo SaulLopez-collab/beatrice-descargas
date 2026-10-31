@@ -1,0 +1,1 @@
+# beatrice-descargas | Instaladores oficiales de Beatrice. | Descarga la version mas nueva: https://github.com/SaulLopez-collab/beatrice-descargas/releases/latest | El sha256 oficial lo publica GET /v1/version de https://beatrice-ia.pages.dev y la app lo verifica antes de instalar. | by Saul Lopez — Beatrice
