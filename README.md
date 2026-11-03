@@ -7,8 +7,8 @@ Descarga la version mas nueva de cada plataforma (los botones de [beatrice-ia.pa
 
 ## Verificacion (contrato D3)
 
-Cada release publica  y un resumen por archivo. El hash vigente tambien lo sirve
- (campo ): la app compara
-ANTES de instalar; si no coincide, avisa y borra el archivo.
+Cada release publica `SHA256SUMS.txt` y un resumen por archivo. El hash vigente tambien lo
+sirve `GET https://beatrice-ia.pages.dev/v1/version` (campo `artefactos.*.sha256`): la app
+compara ANTES de instalar; si no coincide, avisa y borra el archivo.
 
 Fuentes: github.com/SaulLopez-collab/beatrice (codigo, privado).
